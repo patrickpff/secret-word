@@ -6,6 +6,8 @@ import './App.css'
 
 // Data
 import { wordsList } from './data/words'
+// Config
+import { gameConfig } from './config/gameConfig'
 
 // Components
 import StartScreen from './components/StartScreen'
@@ -18,7 +20,7 @@ const stages = [
   {id: 3, name: "end"}
 ]
 
-const guessesQuantity = 3;
+const guessesQuantity = gameConfig.attempts;
 
 function App() {
   const [gameStage, setGameStage] = useState(stages[0].name);

@@ -4,7 +4,7 @@ Welcome to Secret Word game! This is a imple and fun game built using React wher
 
 ## About the Project
 
-This game was developed as part of a course on <a href="https://www.udemy.com">Udemy</a> entitled <a href="https://www.udemy.com/course/react-do-zero-a-maestria-c-hooks-router-api-projetos/">React do Zero a Maestria (c/ hooks, router, API, Projetos)</a>. It is designed to help learners practice React fundamentals, including state management, component structure, and event handling.
+This game was developed as part of the <a href="https://www.udemy.com">Udemy</a> <a href="https://www.udemy.com/course/react-do-zero-a-maestria-c-hooks-router-api-projetos/">React do Zero a Maestria (c/ hooks, router, API, Projetos)</a>. It is intended to help learners practice essential React concepts such as state management, component architecture, and event handling.
 
 ## Features
 

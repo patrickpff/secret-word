@@ -40,7 +40,7 @@ This game was developed as part of the <a href="https://www.udemy.com">Udemy</a>
    npm install
 ```
 
-4. Install dependencies
+4. Run the game
 
 ```bash
    npm run dev
